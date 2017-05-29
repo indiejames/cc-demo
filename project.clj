@@ -1,6 +1,6 @@
 (defproject cc-demo "0.1.0-SNAPSHOT"
-  :description "Demo project for Clojure Code VS Code extension"
-  :url "http://example.com/FIXME"
+  :description "Demo project for the Clojure Code Visual Studio Code extension"
+  :url "https://github.com/indiejames/cc-demo"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
